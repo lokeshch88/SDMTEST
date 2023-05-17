@@ -1,0 +1,18 @@
+Introduction:
+The purpose of this document is to show the requirements for the Project managemnt system, which will provides efficient projct planning, tracking, collaboration, and reporting
+
+Objectives:
+describe the functional requiremnt and objectives of the online project management system
+
+Scope:
+the system will provide features for creating and manage projects, assigning tasks, track progress, managing resources, generating reports, and team collaboration
+
+Functional requirement:
+1. User Registration and Authentication: Users should be able to create accounts, log in, and authenticate themselves to access the project management system
+2. Project Creation: Users should be able to create new projects, project details such as name, description, start/end dates, and assign project managers
+3. Task Management: Users should be able to create, assign, and manage tasks within projects. This includes defining task details, assigning task owners, setting deadlines, and tracking task progress
+4. Document Management: Users should be able to upload, store, and organize project documents, team members can access the necessary files and collaborate in project
+5. Time Management: The system should include features for users to track the time requireed on tasks and projects, gives accurate reporting and resource allocation
+6. project Collaboration: The system should enable collaboration among project team members, allowing them to communicate, share documents, and discuss project-related things
+7. Resource Management: Users should be able to allocate and manage resources, including assigning team members to tasks, tracking resource availability, and monitoring workload distribution
+8. Project Status and Reports: The system generate reports and provide tracking on project progress, task completion, resource management, and evaluate project performance

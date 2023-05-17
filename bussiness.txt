@@ -1,0 +1,15 @@
+Bussiness Entities:
+
+1. User: Represents a user of the project management system. It includes attributes such as user ID,password, name, email, role(designation)
+2. Project: Represents a project managed in the system. It includes attributes like project ID, name, description, project start Date, and end Date
+3. Team: Represents a team involved in a project. It includes attributes like team id, name, and description
+4. Task: Represents a task within a project. It includes attributes such as task id, name, description, start Date, end date, and status
+5. comment : Represents comments made by users on tasks or project related discussions. It includes attributes such as comment id, content, date
+
+Bussiness Operations:
+1. User can create new project, update and delete
+2. User will be able to create team,task,comments and assign team members and their in team
+3. Able to assign project for team members
+4. User cawill able to update status and check status of project
+5. user can able make comments on project realated matter
+6. 
